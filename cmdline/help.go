@@ -3,8 +3,8 @@ package cmdline
 import (
 	"fmt"
 
-	"github.com/richardwilkes/toolbox/atexit"
-	"github.com/richardwilkes/toolbox/i18n"
+	"github.com/jholder85638/toolbox/atexit"
+	"github.com/jholder85638/toolbox/i18n"
 )
 
 type helpCmd struct {

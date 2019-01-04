@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/richardwilkes/toolbox/log/rotation"
+	"github.com/jholder85638/toolbox/log/rotation"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

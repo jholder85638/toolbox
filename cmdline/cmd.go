@@ -3,7 +3,7 @@ package cmdline
 import (
 	"fmt"
 
-	"github.com/richardwilkes/toolbox/i18n"
+	"github.com/jholder85638/toolbox/i18n"
 )
 
 // Cmd represents a sub-command available on the command-line.

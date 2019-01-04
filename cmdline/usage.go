@@ -7,8 +7,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/richardwilkes/toolbox/i18n"
-	"github.com/richardwilkes/toolbox/xio/term"
+	"github.com/jholder85638/toolbox/i18n"
+	"github.com/jholder85638/toolbox/xio/term"
 )
 
 var (

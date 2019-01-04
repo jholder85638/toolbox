@@ -11,11 +11,11 @@ import (
 	"time"
 
 	humanize "github.com/dustin/go-humanize"
-	"github.com/richardwilkes/toolbox/atexit"
-	"github.com/richardwilkes/toolbox/errs"
-	"github.com/richardwilkes/toolbox/log/logadapter"
-	"github.com/richardwilkes/toolbox/xio/network"
-	"github.com/richardwilkes/toolbox/xio/network/xhttp"
+	"github.com/jholder85638/toolbox/atexit"
+	"github.com/jholder85638/toolbox/errs"
+	"github.com/jholder85638/toolbox/log/logadapter"
+	"github.com/jholder85638/toolbox/xio/network"
+	"github.com/jholder85638/toolbox/xio/network/xhttp"
 )
 
 // Constants for protocols the server can provide.

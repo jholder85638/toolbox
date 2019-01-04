@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/richardwilkes/toolbox/xio"
+	"github.com/jholder85638/toolbox/xio"
 )
 
 func TestLineWriter(t *testing.T) {

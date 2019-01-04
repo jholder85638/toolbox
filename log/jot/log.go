@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/richardwilkes/toolbox/atexit"
-	"github.com/richardwilkes/toolbox/xio/term"
+	"github.com/jholder85638/toolbox/atexit"
+	"github.com/jholder85638/toolbox/xio/term"
 )
 
 // Log levels

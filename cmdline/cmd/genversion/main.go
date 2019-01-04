@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/richardwilkes/toolbox/cmdline"
-	"github.com/richardwilkes/toolbox/i18n"
+	"github.com/jholder85638/toolbox/cmdline"
+	"github.com/jholder85638/toolbox/i18n"
 )
 
 func main() {

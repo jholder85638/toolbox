@@ -7,8 +7,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/richardwilkes/toolbox/collection"
-	"github.com/richardwilkes/toolbox/txt"
+	"github.com/jholder85638/toolbox/collection"
+	"github.com/jholder85638/toolbox/txt"
 )
 
 // FileSystem defines the methods available for a live or embedded filesystem.

@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/richardwilkes/toolbox/errs"
-	"github.com/richardwilkes/toolbox/i18n"
+	"github.com/jholder85638/toolbox/errs"
+	"github.com/jholder85638/toolbox/i18n"
 )
 
 var (

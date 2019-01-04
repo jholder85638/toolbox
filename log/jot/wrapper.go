@@ -3,7 +3,7 @@ package jot
 import (
 	"io"
 
-	"github.com/richardwilkes/toolbox/log/logadapter"
+	"github.com/jholder85638/toolbox/log/logadapter"
 )
 
 // Logger wraps the various jot function calls into a struct that can be

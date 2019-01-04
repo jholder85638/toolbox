@@ -4,7 +4,7 @@ import (
 	"os/exec"
 	"runtime"
 
-	"github.com/richardwilkes/toolbox/errs"
+	"github.com/jholder85638/toolbox/errs"
 )
 
 // OpenBrowser opens 'url' with the user's preferred browser.

@@ -4,10 +4,10 @@ import (
 	"io"
 	"os"
 
-	"github.com/richardwilkes/toolbox/cmdline"
-	"github.com/richardwilkes/toolbox/log/jot"
-	"github.com/richardwilkes/toolbox/log/rotation"
-	"github.com/richardwilkes/toolbox/xio"
+	"github.com/jholder85638/toolbox/cmdline"
+	"github.com/jholder85638/toolbox/log/jot"
+	"github.com/jholder85638/toolbox/log/rotation"
+	"github.com/jholder85638/toolbox/xio"
 )
 
 // ParseAndSetup adds command-line options for controlling logging, parses the

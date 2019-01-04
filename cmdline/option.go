@@ -3,9 +3,9 @@ package cmdline
 import (
 	"fmt"
 
-	"github.com/richardwilkes/toolbox/atexit"
-	"github.com/richardwilkes/toolbox/errs"
-	"github.com/richardwilkes/toolbox/i18n"
+	"github.com/jholder85638/toolbox/atexit"
+	"github.com/jholder85638/toolbox/errs"
+	"github.com/jholder85638/toolbox/i18n"
 )
 
 // Value represents a value that can be set for an Option.

@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/richardwilkes/toolbox/atexit"
-	"github.com/richardwilkes/toolbox/txt"
+	"github.com/jholder85638/toolbox/atexit"
+	"github.com/jholder85638/toolbox/txt"
 	"github.com/stretchr/testify/assert"
 )
 

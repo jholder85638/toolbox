@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/richardwilkes/toolbox/errs"
+	"github.com/jholder85638/toolbox/errs"
 )
 
 // ----- bool -----

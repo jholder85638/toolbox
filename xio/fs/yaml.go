@@ -4,8 +4,8 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/richardwilkes/toolbox/errs"
-	"github.com/richardwilkes/toolbox/xio/fs/safe"
+	"github.com/jholder85638/toolbox/errs"
+	"github.com/jholder85638/toolbox/xio/fs/safe"
 
 	yaml "gopkg.in/yaml.v2"
 )

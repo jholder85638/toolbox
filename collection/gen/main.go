@@ -9,8 +9,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/richardwilkes/toolbox/atexit"
-	"github.com/richardwilkes/toolbox/log/jot"
+	"github.com/jholder85638/toolbox/atexit"
+	"github.com/jholder85638/toolbox/log/jot"
 )
 
 //go:generate go run main.go

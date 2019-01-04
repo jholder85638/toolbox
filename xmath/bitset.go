@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/richardwilkes/toolbox/atexit"
+	"github.com/jholder85638/toolbox/atexit"
 )
 
 const (

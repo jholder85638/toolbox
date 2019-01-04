@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/richardwilkes/toolbox/atexit"
-	"github.com/richardwilkes/toolbox/log/jot"
+	"github.com/jholder85638/toolbox/atexit"
+	"github.com/jholder85638/toolbox/log/jot"
 )
 
 func main() {
@@ -24,7 +24,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/richardwilkes/toolbox/errs"
+	"github.com/jholder85638/toolbox/errs"
 )
 `)
 	gen(out, "bool", "strconv.ParseBool(str)", false)

@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/richardwilkes/toolbox/cmdline"
+	"github.com/jholder85638/toolbox/cmdline"
 )
 
 // AppLogDir returns the application log directory.

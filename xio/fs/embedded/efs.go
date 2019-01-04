@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/richardwilkes/toolbox/log/jot"
+	"github.com/jholder85638/toolbox/log/jot"
 )
 
 type efs struct {

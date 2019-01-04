@@ -16,10 +16,10 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/richardwilkes/toolbox/atexit"
-	"github.com/richardwilkes/toolbox/cmdline"
-	"github.com/richardwilkes/toolbox/collection"
-	"github.com/richardwilkes/toolbox/txt"
+	"github.com/jholder85638/toolbox/atexit"
+	"github.com/jholder85638/toolbox/cmdline"
+	"github.com/jholder85638/toolbox/collection"
+	"github.com/jholder85638/toolbox/txt"
 )
 
 type data struct {
@@ -203,7 +203,7 @@ package {{.Pkg}}
 import (
 	"time"
 
-	"github.com/richardwilkes/toolbox/xio/fs/embedded"
+	"github.com/jholder85638/toolbox/xio/fs/embedded"
 )
 
 // {{.Var}} holds an embedded filesystem.

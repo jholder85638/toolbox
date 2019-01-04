@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/richardwilkes/toolbox/log/logadapter"
+	"github.com/jholder85638/toolbox/log/logadapter"
 )
 
 type timing struct {

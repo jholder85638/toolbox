@@ -1,4 +1,4 @@
-module github.com/richardwilkes/toolbox
+module github.com/jholder85638/toolbox
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect

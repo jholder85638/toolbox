@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/richardwilkes/toolbox/collection"
-	"github.com/richardwilkes/toolbox/txt"
+	"github.com/jholder85638/toolbox/collection"
+	"github.com/jholder85638/toolbox/txt"
 )
 
 // PrimaryIPAddress returns the primary IP address.

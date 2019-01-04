@@ -9,11 +9,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/richardwilkes/toolbox/atexit"
-	"github.com/richardwilkes/toolbox/collection"
-	"github.com/richardwilkes/toolbox/errs"
-	"github.com/richardwilkes/toolbox/i18n"
-	"github.com/richardwilkes/toolbox/xio/term"
+	"github.com/jholder85638/toolbox/atexit"
+	"github.com/jholder85638/toolbox/collection"
+	"github.com/jholder85638/toolbox/errs"
+	"github.com/jholder85638/toolbox/i18n"
+	"github.com/jholder85638/toolbox/xio/term"
 )
 
 // CmdLine holds information about the command line.

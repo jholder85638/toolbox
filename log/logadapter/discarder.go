@@ -3,7 +3,7 @@ package logadapter
 import (
 	"time"
 
-	"github.com/richardwilkes/toolbox/atexit"
+	"github.com/jholder85638/toolbox/atexit"
 )
 
 // Discarder discards all data given to it.

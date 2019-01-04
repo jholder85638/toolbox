@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/richardwilkes/toolbox/xmath/fixed"
+	"github.com/jholder85638/toolbox/xmath/fixed"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 

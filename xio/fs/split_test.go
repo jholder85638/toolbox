@@ -3,7 +3,7 @@ package fs_test
 import (
 	"testing"
 
-	"github.com/richardwilkes/toolbox/xio/fs"
+	"github.com/jholder85638/toolbox/xio/fs"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,9 +3,9 @@ package rotation
 import (
 	"path/filepath"
 
-	"github.com/richardwilkes/toolbox/cmdline"
-	"github.com/richardwilkes/toolbox/errs"
-	"github.com/richardwilkes/toolbox/xio/fs/paths"
+	"github.com/jholder85638/toolbox/cmdline"
+	"github.com/jholder85638/toolbox/errs"
+	"github.com/jholder85638/toolbox/xio/fs/paths"
 )
 
 // Constants for defaults.

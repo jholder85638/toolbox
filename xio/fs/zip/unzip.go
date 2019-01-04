@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/richardwilkes/toolbox/errs"
-	"github.com/richardwilkes/toolbox/xio"
+	"github.com/jholder85638/toolbox/errs"
+	"github.com/jholder85638/toolbox/xio"
 )
 
 // ExtractArchive extracts the contents of a zip archive at 'src' into the

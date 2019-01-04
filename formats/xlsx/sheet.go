@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/richardwilkes/toolbox/errs"
-	"github.com/richardwilkes/toolbox/txt"
-	"github.com/richardwilkes/toolbox/xio"
+	"github.com/jholder85638/toolbox/errs"
+	"github.com/jholder85638/toolbox/txt"
+	"github.com/jholder85638/toolbox/xio"
 )
 
 // Sheet holds the data contained in a single worksheet.

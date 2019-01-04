@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/jackpal/gateway"
-	"github.com/richardwilkes/toolbox/atexit"
-	"github.com/richardwilkes/toolbox/errs"
+	"github.com/jholder85638/toolbox/atexit"
+	"github.com/jholder85638/toolbox/errs"
 )
 
 const (

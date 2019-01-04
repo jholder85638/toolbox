@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/richardwilkes/toolbox/txt"
+	"github.com/jholder85638/toolbox/txt"
 	"github.com/stretchr/testify/assert"
 )
 

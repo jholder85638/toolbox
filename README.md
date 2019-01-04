@@ -3,7 +3,7 @@ Toolbox for Go.
 
 To install this package and the tools it provides:
 ```
-go get -u github.com/richardwilkes/toolbox/...
+go get -u github.com/jholder85638/toolbox/...
 ```
 
 ## atexit
@@ -42,7 +42,7 @@ Simple asynchronous logging.
 ```Go
 package main
 
-import "github.com/richardwilkes/toolbox/log/jot"
+import "github.com/jholder85638/toolbox/log/jot"
 
 func main() {
     defer jot.Flush()

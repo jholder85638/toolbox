@@ -4,9 +4,9 @@ import (
 	"html/template"
 	"path/filepath"
 
-	"github.com/richardwilkes/toolbox/errs"
-	"github.com/richardwilkes/toolbox/xio"
-	"github.com/richardwilkes/toolbox/xio/fs/embedded"
+	"github.com/jholder85638/toolbox/errs"
+	"github.com/jholder85638/toolbox/xio"
+	"github.com/jholder85638/toolbox/xio/fs/embedded"
 )
 
 // Load the templates found at the path, omitting any that the filter function

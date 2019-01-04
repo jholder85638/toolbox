@@ -10,8 +10,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/richardwilkes/toolbox/log/logadapter"
-	"github.com/richardwilkes/toolbox/xio/fs"
+	"github.com/jholder85638/toolbox/log/logadapter"
+	"github.com/jholder85638/toolbox/xio/fs"
 )
 
 const (
